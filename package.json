@@ -1,6 +1,6 @@
 {
   "name": "demo-npm-package-egpc",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Demo npm package",
   "main": "index.js",
   "scripts": {
