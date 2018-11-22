@@ -1,5 +1,5 @@
 {
-  "name": "demo-npm-package",
+  "name": "demo-npm-package-egpc",
   "version": "1.0.0",
   "description": "Demo npm package",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edgargregori/demo-npm-package.git"
+    "url": "git+https://github.com/edgargregori/demo-npm-package-egpc.git"
   },
   "keywords": [
     "demo"
@@ -16,7 +16,7 @@
   "author": "edgargregori",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/edgargregori/demo-npm-package/issues"
+    "url": "https://github.com/edgargregori/demo-npm-package-egpc/issues"
   },
-  "homepage": "https://github.com/edgargregori/demo-npm-package#readme"
+  "homepage": "https://github.com/edgargregori/demo-npm-package-egpc#readme"
 }
