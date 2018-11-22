@@ -32,5 +32,12 @@ $ npm info
 	$ git push --tags
 	$ npm publish --tag beta
 
+# Borrando un tag(es como una rama pero o se modifica nunca-jamas.)
+	$ git tag -l # ver tags.
+	$ git tag -d 1.1.0-beta.1 # borrar un tag.
+	$ git push origin :refs/tags/1.1.0-beta.1 # borrar el tag de github remoto.
+	$ git tag -a 1.1.0-beta.1 -m "version 1.1.0-beta.1" # adicionando un tag local.
+	$ git push origin 1.1.0-beta.1 # colocando el tag en github remoto.
+
 
 
